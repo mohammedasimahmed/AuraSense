@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Scenario",
+    "description": "Describe a situation or experience you faced. AuraSense will analyze it and highlight any harmful, abusive, or psychologically impactful elements."
+  },
+  {
+    "id": 2,
+    "title": "Conversation",
+    "description": "Upload an audio file of a conversation between people. AuraSense detects abusive, toxic, or manipulative language from both sides of the conversation."
+  },
+  {
+    "id": 3,
+    "title": "Document",
+    "description": "Upload a document. AuraSense will analyze it and highlight any abusive, harmful, or manipulative sections that could affect readers mental health."
+  },
+  {
+    "id": 4,
+    "title": "Video",
+    "description": "Upload a video file. AuraSense will analyze the content and highlight any abusive, harmful, or manipulative language or behavior that could negatively affect viewers' mental health."
+  }
+]

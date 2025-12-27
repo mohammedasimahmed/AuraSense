@@ -1,0 +1,1 @@
+export const userInputMap: Map<string, { inputType: string, input: string | Express.Multer.File }> = new Map();
